@@ -1,0 +1,66 @@
+.main{
+  max-width: 100%;
+  height: auto;
+}
+.dec{
+    margin-top: -7px;
+    margin-left: -7px;
+    margin-right: -6px;
+    background-color:rgb(17, 52, 117);
+    color:white;
+    text-align: center;
+    height:60px;
+    }
+    .dec h{
+      color: white;
+      font-size: 20px;
+      font-family: bold;
+    }
+    .responsive {
+      max-width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+      padding: 16px;
+      height: auto;
+    }
+    .colect{
+      margin: auto;
+      padding: 10px;
+    }
+    .book{
+      margin: auto;
+      
+    }
+    .book p1{
+      font-size: 40px;  
+      color: rgb(18, 35, 66);
+      font-style: bold;
+      position: relative;
+
+    }
+    .book p2{
+      font-size: 20px;
+    
+      color: rgb(66, 105, 177);
+      font-style: initial;
+      position: relative;
+      
+    }
+    .foot{
+      margin-top: -7px;
+      margin-left: -7px;
+      margin-right: -6px;
+      margin-bottom: -7px;
+      text-align: center;
+      height: 120px;
+      color: #f1f1f1;
+      background-color: rgb(17, 17, 29);
+     }
+      f{
+      margin:auto;
+     }
+     .foot a{
+     
+      
+      border-color: white;
+     }
