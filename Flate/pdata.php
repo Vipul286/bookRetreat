@@ -10,7 +10,7 @@ if(isset($_POST['nf'])&&isset($_POST['nl'])&&isset($_POST['sl'])&&isset($_POST['
     $ce=$_POST['ce'];
     $am=$_POST['am'];
     $con=new mysqli('localhost','root','','flat');
-    $q="insert into pay(FName,LName,Bank,Creditcardnumber,Securitycode,Cardexpiration,Amount)values('$nf','$nl','$sl','$cnn','$cvv','$ce','$am')";
+    $q="insert into pay1(FName,LName,Bank,Creditcardnumber,Securitycode,Cardexpiration,Amount)values('$nf','$nl','$sl','$cnn','$cvv','$ce','$am')";
     $r=mysqli_query($con,$q);
     if($r)
    {
