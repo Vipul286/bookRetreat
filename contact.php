@@ -30,6 +30,7 @@ require("cont.php");
         <input type="number" name="mb" id="mb"> <input type="text" name="ad" id="ad">
         <br>
         <br>
+        <br>
         <input type="submit" value="Click" >
        </form>
       </div>
