@@ -79,6 +79,7 @@ body {
   .drop{
     
     margin-left: -20px;
+    margin-bottom:-5px;
     width:200px;
     height:715px;
     text-align: center;
