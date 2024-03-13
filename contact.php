@@ -17,7 +17,7 @@ require("cont.php");
         <img src="h.jfif" style="width:50px;height:50px;float:left;margin-left: 9px;border-radius: 40px;margin-top: -13px;">
         <h>WELCOME TO HOME BOOKING</h>
       </div>
-      <div class="con" style="width:400;height: 400px;">
+      <div class="con" style="width:400;height: 500px;">
       <form action=" " method="post" onsubmit="return valid()">
         <p><img src="u.jfif" class='responsive'style="width:100px;height:100px;"></p>
         <br>
@@ -38,7 +38,6 @@ require("cont.php");
       <br>
       <div class="foot">
         <br>
-         <br>
         Author: More Mahesh <br>
         <a href="moremk2019@gmail.com">moremk2019@gmail.com</a>
         <br>
