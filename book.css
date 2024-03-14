@@ -306,3 +306,8 @@ body{
   width: 200px;
   height: 40px;
 }
+@media only screen and (max-width:500px) {
+  .con,.magic,.dec,.form,.foot,.dec {
+    width: 100%;
+  }
+}
