@@ -18,7 +18,7 @@ require("pdata.php");
         <h>WELCOME TO HOME BOOKING</h>
       </div>
       <form action="" method="post">
-      <div class="magic" id="bus"style="width:400px;height:500px;margin-top: 50px;">
+      <div class="magic" id="bus"style="width:500px;height:505px;margin-top: 50px;">
       <br>
           <br>
           <l>Payment Method </l>
