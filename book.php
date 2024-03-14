@@ -57,7 +57,7 @@ require("pdata.php");
                       </form>
                 </div>
       <div class="row">
-        <div class="form" id="myForm" style="width:500px;height:505px;margin-top: 5px;">
+        <div class="form" id="myForm" style="width:500px;height:505px;margin-top: 2px;">
         <form action=" " method="post" onsubmit="return valid()">
            <br>
            <br>
