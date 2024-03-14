@@ -7,7 +7,7 @@ $em=$_POST['em'];
 $mb=$_POST['mb'];
 $dt=$_POST['dt'];
 $ad=$_POST['ad'];
-$con=new mysqli('localhost','root','','flat');
+$con=new mysqli('myazdemosvr.mysql.database.azure.com','myadmin@myazdemosvr','Server@1','flat');
 $q="insert into book1(FName,LName,Email,Contact,Date,Adress)values('$fn','$ln','$em','$mb','$dt','$ad')";
 $r=mysqli_query($con,$q);
 if($r)
