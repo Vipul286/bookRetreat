@@ -132,5 +132,9 @@ body{
           margin-left: auto;
         }
       }
-
+@media only screen and (max-width:500px) {
+  .con,.foot,.dec {
+    width: 100%;
+  }
+}
       
