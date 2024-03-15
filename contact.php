@@ -16,6 +16,7 @@ require("cont.php");
         <br>
         <img src="h.jfif" style="width:50px;height:50px;float:left;margin-left: 9px;border-radius: 40px;margin-top: -13px;">
         <h>WELCOME TO HOME BOOKING</h>
+       <a href="index.html"><img src="arrow.png" style="width:50px;height:50px;float:right;margin-right: 9px;border-radius: 40px;margin-top: -13px;"></a>
       </div>
       <div class="con" style="width:400;height: 500px;">
       <form action=" " method="post" onsubmit="return valid()">
