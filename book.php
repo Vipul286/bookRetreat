@@ -14,7 +14,7 @@ require("pdata.php");
  
     <div class="dec">
         <br>
-        <img src="h.jfif" style="width:50px;height:50px;float:left;margin-left: 9px;border-radius: 40px;margin-top: -13px;">
+         <a href="index.html">< <img src="h.jfif" style="width:50px;height:50px;float:left;margin-left: 9px;border-radius: 40px;margin-top: -13px;"></a>
         <h>WELCOME TO HOME BOOKING</h>
          <a href="index.html"><img src="arrow.png" style="width:50px;height:50px;float:right;margin-right: 9px;border-radius: 40px;margin-top: -13px;"></a>
       </div>
