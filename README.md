@@ -1,5 +1,5 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://home-booking.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service.</b></a>
+<h2>Project Title:</h2><b><a href="https://home-booking.azurewebsites.net/">Language Studio- Home Booking Web App Using Azure AI ChatBot Service.</b></a>
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://home-booking.azurewebsites.net/ <br>
