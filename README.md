@@ -4,44 +4,44 @@
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://home-booking.azurewebsites.net/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
-<b>Github Repository URL :</b> https://github.com/AnkeetaGupta/flask-ai-translation.git <br>
+<b>Github Repository URL :</b> https://github.com/moremk/Magicbus.git <br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used</h2>
 <h3>
 Core Azure Services : <br>
 1. Azure App Service <br>
-2. Azure SQL Database <br> <br>
+2. Azure MySQL Database <br> <br>
 Azure AI Service <br>
-1. Azure AI Translator Service
+1. Azure AI ChatBot Service
 </h3>
 <h2>Problem Statement</h2>
-<p align="justify">In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records.</p>
+<p align="justify">Welcome to our Home Booking Web App! Find your dream home with ease using our intuitive interface. Browse through a vast selection of properties, book viewings, and secure your ideal space effortlessly. Need assistance? Our AI-powered chatbot is here 24/7 to answer your queries and guide you through the booking process. Start your journey towards your dream home today.</p>
 <h2>Project Description</h2>
-<p align="justify">The "Multilingual Content Hub - VOX" is a web application designed to facilitate language translation and maintain a history of person interactions. Users can enter text, and the gadget leverages Azure AI Translator service to provide accurate and contextually relevant translations. The software additionally consists of a characteristic to show recent searches, allowing users to revisit and reuse previous translations easily.</p><br>
+<p align="justify">Our project is a Home Booking Web App featuring an AI chatbot for seamless property search, booking, and customer support. Users can easily find, view, and book properties, while the chatbot provides personalized assistance 24/7. The platform aims to revolutionize the property booking process, catering to both users and property owners/managers with intuitive features and efficient functionality.
+</p><br>
 <b>Key Features :</b>
 <ul>
-    <li>Seamless Language Translation</li>
+    <li>Home Booking Web App integrates an AI-powered chatbot</li>
     <li>User-Friendly Interface</li>
-    <li>History Tracking and Recent Searches</li>
+    <li>guide users through the booking process</li>
     <li>Azure App Service Hosting</li>
-    <li>Azure SQL Database for Efficient Data Management</li>
+    <li>Azure MySQL Database for Efficient Data Management</li>
 </ul>
 <b>Future Enhancements :</b><br>
-<p align="justify">The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
+<p align="justify">Implement real-time property availability updates, streamline the booking process with AI-driven chatbots for personalized assistance, introduce virtual property tours for immersive experiences, integrate smart payment options for seamless transactions, and enhance user experience with intuitive search filters and recommendations.</p>
 <h2>Core Azure Services</h2>
 <b>Azure App Service :</b><br><p align="justify"><br>The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.</p>
 
-<b>Azure MySQL Dtatabase :</b><br><p align="justify">To store and manage recent search history, the project employs Azure SQL Database. This relational database service ensures data consistency, integrity, and enables efficient querying, making it ideal for tracking and displaying user interactions.</p>
+<b>Azure MySQL Database :</b><br><p align="justify">Azure MySQL Database offers scalable, secure, and reliable hosting for MySQL databases in the cloud. It provides high availability, robust security features, automated backups, and compatibility with existing MySQL applications. With monitoring and management tools, integration with Azure services, and flexible pricing options, it enables businesses to build and manage modern applications efficiently.</p>
 <h2>Azure AI Service</h2>
-<b>Azure AI Translator Service :</b><br><br><p align="justify">The core of the translation functionality is powered by Azure AI Translator service. This service employs advanced natural language processing algorithms to provide accurate and contextually relevant translations across a wide array of languages.</p>
+<b>Azure AI ChatBot Service :</b><br><br><p align="justify">Azure AI Chatbot Service is a platform on Microsoft Azure for building and deploying AI-powered chatbots. It offers natural language processing, multi-channel support, integration with cognitive services, scalability, analytics, and security features. Developers can create intelligent chatbots that understand user intents, provide personalized responses, and engage users across various channels.</p>
 <h2>Other Azure Technologies / Services</h2>
-<p align="justify">In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.</p>
-
-<b>Azure Monitor :</b><p align="justify"><b>Real-time Performance Metrics :</b> Monitors vital overall performance indicators, ensuring the application runs seamlessly.<br>
-<b>Proactive Alerts :</b> Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.</p>
+<p align="justify">Azure provides a wide range of cloud services for building, deploying, and managing applications and infrastructure.</p>
+<b>Azure Monitor :</b><p align="justify"><b>Azure Monitor offers real-time performance metrics for monitoring the health and performance of a home booking chatbot AI service deployed on Azure. It provides insights into resource utilization, response times, and availability, facilitating proactive monitoring and troubleshooting. With customizable dashboards and alerts, Azure Monitor ensures optimal performance and reliability of the chatbot service, enhancing user experience and satisfaction.<br>
+<b>Proactive Alerts :</b> For a home booking chatbot AI service deployed on Azure, proactive alerts through Azure Monitor can ensure seamless operation and enhanced user experience. </p>
 <b>Azure Application Insights :</b><p align="justify">
-<b>User Interaction Insights :</b> Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.<br>
-<b>Diagnostics Precision :</b> Traces requests comprehensively, facilitating quick identity and determination of issues at each frontend and backend degrees.
+<b>User Interaction Insights :</b> Gaining insights into user interactions is crucial for optimizing a home booking system utilizing Azure AI Chatbot.<br>
+<b>Diagnostics Precision :</b> In a home booking system utilizing Azure AI Chatbot, diagnostics precision ensures efficient troubleshooting and maintenance.
 
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
