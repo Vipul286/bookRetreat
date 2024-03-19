@@ -45,7 +45,7 @@ Azure AI Service <br>
 
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
-<b>Description :</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
+<b>Description :</b><p align="justify">Azure offers a range of services that can be utilized for home booking applications, including AI services for chatbots. By leveraging Azure's AI capabilities, developers can create intelligent chatbots that can assist users in booking homes, answering queries, and providing personalized recommendations.</p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-service.png" alt="azure-app-service"></img><br>
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
