@@ -49,10 +49,10 @@ Azure AI Service <br>
 <img src="https://github.com/moremk/Magicbus/blob/main/app.png" alt="azure-app-service"></img><br>
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> Azure Database for MySQL is a fully managed database service provided by Microsoft Azure that allows users to deploy, manage, and scale MySQL relational databases in the cloud. This service offers high availability, automatic backups, and security features to ensure the reliability and performance of MySQL databases.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-db.png" alt="azure-mysql-db-service"></img><br>
+<img src="https://github.com/moremk/Magicbus/blob/main/mysql.png" alt="azure-mysql-db-service"></img><br>
 <h3>Azure AI ChatBot Service</h3>
 <b>Description :</b><p align="justify">Azure AI Chatbot Service is a comprehensive platform provided by Microsoft Azure that enables developers to build, deploy, and manage intelligent chatbots using artificial intelligence capabilities. This service leverages natural language processing, machine learning, and cognitive services to create conversational interfaces that can interact with users in a human-like manner. </p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
+<img src="https://github.com/moremk/Magicbus/blob/main/chatbot.png" alt="azure-translator-ai-service"></img><br>
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
