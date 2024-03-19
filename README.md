@@ -46,12 +46,12 @@ Azure AI Service <br>
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
 <b>Description :</b><p align="justify">Azure offers a range of services that can be utilized for home booking applications, including AI services for chatbots. By leveraging Azure's AI capabilities, developers can create intelligent chatbots that can assist users in booking homes, answering queries, and providing personalized recommendations.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-service.png" alt="azure-app-service"></img><br>
+<img src="https://github.com/moremk/Magicbus/blob/main/app.png" alt="azure-app-service"></img><br>
 <h3>Azure Databse for MySQL</h3>
-<b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
+<b>Description :</b><p align="justify"> Azure Database for MySQL is a fully managed database service provided by Microsoft Azure that allows users to deploy, manage, and scale MySQL relational databases in the cloud. This service offers high availability, automatic backups, and security features to ensure the reliability and performance of MySQL databases.</p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-db.png" alt="azure-mysql-db-service"></img><br>
-<h3>Azure AI Translator Service</h3>
-<b>Description :</b><p align="justify">Azure AI Translator Service is the engine behind the Multilingual Content Hub's language translation capabilities. It employs advanced natural language processing to deliver accurate and contextually relevant translations.</p>
+<h3>Azure AI ChatBot Service</h3>
+<b>Description :</b><p align="justify">Azure AI Chatbot Service is a comprehensive platform provided by Microsoft Azure that enables developers to build, deploy, and manage intelligent chatbots using artificial intelligence capabilities. This service leverages natural language processing, machine learning, and cognitive services to create conversational interfaces that can interact with users in a human-like manner. </p>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/app-ai.png" alt="azure-translator-ai-service"></img><br>
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
@@ -62,8 +62,8 @@ Azure AI Service <br>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
-The Multilingual Content Hub redefines language connectivity by using seamlessly merging generation and linguistic finesse. This task, empowered by means of Azure's sturdy infrastructure, not most effective tackles language barriers however envisions a destiny wherein verbal exchange transcends borders.</p>
+For the final project, the goal is to develop a home booking web application that incorporates an AI chatbot to enhance user experience and streamline the booking process. The AI chatbot will be integrated into the web app to assist users in searching for homes, answering queries, providing personalized recommendations, and facilitating the booking process.</p>
 <p align="justify">
-<b>As we finish, the Multilingual Content Hub isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
+The web app will also utilize Azure services for hosting, scalability, and security to ensure a reliable and efficient platform for users to book homes seamlessly. The project aims to showcase the integration of AI technology into a practical application, demonstrating the potential of AI chatbots in improving customer engagement and simplifying complex tasks such as home booking.
 </p> <br>
-</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Multilingual Content Hub - VOX Translation Web App using Azure AI Translation Service</b></a>
+</h2><b><a href="https://home-booking.azurewebsites.net/">Language Studio- Home Booking Web App Using Azure AI ChatBot Service.</b></a>
