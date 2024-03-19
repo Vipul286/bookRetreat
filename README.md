@@ -55,7 +55,10 @@ Azure AI Service <br>
 <img src="https://github.com/moremk/Magicbus/blob/main/chatbot.png" alt="azure-translator-ai-service"></img><br>
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/final-project.png" alt="final-project-demo"></img>
+<img src="https://github.com/moremk/Magicbus/blob/main/hazure.png" alt="final-project-demo"></img>
+<img src="https://github.com/moremk/Magicbus/blob/main/bazure.png" alt="final-project-demo"></img>
+<img src="https://github.com/moremk/Magicbus/blob/main/aazure.png" alt="final-project-demo"></img>
+<img src="https://github.com/moremk/Magicbus/blob/main/cazure.png" alt="final-project-demo"></img>
 
 <h3>Resource Visualizer</h3>
 <img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/flask-ai.jpg" alt="resource-display"></img>
