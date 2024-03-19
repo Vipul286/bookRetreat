@@ -61,7 +61,7 @@ Azure AI Service <br>
 <img src="https://github.com/moremk/Magicbus/blob/main/cazure.png" alt="final-project-demo"></img>
 
 <h3>Resource Visualizer</h3>
-<img src="https://github.com/AnkeetaGupta/flask-ai-translation/blob/main/screenshots/flask-ai.jpg" alt="resource-display"></img>
+<img src="https://github.com/moremk/Magicbus/blob/main/rvazure.png" alt="resource-display"></img>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
